@@ -1,8 +1,8 @@
 {
     "name": "app-example-nest-bun",
     "scripts": {
-        "build": "echo \"Build command\"",
-        "start": "bun run src/main.ts"
+        "start": "bun run src/main.ts",
+        "start:prod": "NODE_ENV=production bun run src/main.ts"
     },
     "dependencies": {
         "@nestjs/common": "^10.4.15",
