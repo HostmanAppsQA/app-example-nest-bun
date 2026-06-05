@@ -1,3 +1,5 @@
+![Nest Logo](https://st.timeweb.com/cloud-static/apps-logo/nest.svg)
+
 # NestJS on Bun
 
 Пример приложения [NestJS](https://nestjs.com/) на рантайме [Bun](https://bun.sh/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
